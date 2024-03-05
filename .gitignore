@@ -1,0 +1,11 @@
+dist/
+dist-newstyle/
+.stack-work/
+.hie/
+cabal.project.local
+
+*~
+tags
+result*
+
+data/
